@@ -1,0 +1,37 @@
+défauts / qualités:
+
+défauts:
+- impatient :
+- rigoureux :
+
+
+qualités:
+- créatif
+- à l'écoute
+- cooperative
+
+
+
+Qu'est-ce que vous faites en france?!
+
+- Je suis en France depuis Aout 2015, avant j'étais en Guyane française pendant quelques années. J'ai rejoint une partie de ma famille qui vit en France, à Saint-Nazaire.
+J'ai quitté le Brésil à cause de la crise économique. Je suis en France avec envie de progresser sur ma vie personnelle et professionnelle.
+
+Quel est votre parcours professionnel?
+
+- J'ai commencé mon parcours professionnel en tant que technicien de maintenance d'informatique, où j'ai pu connaître un petit peu sur le métier d'informatique
+et avec un cours professionnel, j'ai pu également apprendre un peu sur d'algo et programmation, c'était là le moment exact de ma passion pour le développement de systèmes. Et puis, j'ai travaillé en tant que Designer Graphique et au même temps j'ai rendu à la formation pour devenir analyste de systèmes, où j'ai pu développer des petits projets avec PHP, JAVA, C++, HTML5, CSS3.
+
+
+********** PRESENTATION ********
+
+Bonjour, je me réjouis d'être là avec vous dans cet entretien, permettrez-moi de me présenter, je m'appelle Bruno, j'ai 33ans, actuellement en formation professionnelle au IMIE pour devenir Développeur Logiciel.
+
+
+
+********** COMPETENCES ************
+Compétences requises
+
+Des connaissances sans cesse à jour
+
+Si les outils du développeur s'améliorent considérablement, ils deviennent aussi de plus en plus complexes. D'où la nécessité de se tenir à jour en matière de méthodes, de normes, de procédures de sécurité et d'outils de développement. Il faut aussi être à l'aise avec les langages de programmation (Java, J2EE, .Net, PHP, C++...) et le triplet HTML/CSS/Javascript utilisé par les services web ou les serveurs d'application. Dans le multimédia, des compétences spécifiques sont requises. Bien connaître l'anglais est indispensable, de nombreux programmes utilisant cette langue
